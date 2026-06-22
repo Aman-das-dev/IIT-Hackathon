@@ -14,7 +14,7 @@ Built an AI-based system to reconstruct shuffled 3×3 image puzzles by identifyi
 4. **Optimization**: Optimized performance using the Adam optimizer, Hyperparameter tuning, and extensive experiments to enhance model performance.
 
 ### Key Outcomes
-- Achieved approximately **67% reconstruction accuracy**, improving performance from an initial 14% baseline to over 64%.
+- Achieved approximately **92.4% reconstruction accuracy**, improving performance from an initial 14% baseline to over 92%.
 - Secured **3rd Prize** at the IIT Bhubaneswar ML Hackathon.
 
 ## Architecture Details
