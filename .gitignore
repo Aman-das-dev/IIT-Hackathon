@@ -1,0 +1,5 @@
+data/
+__pycache__/
+*.pth
+training_log.txt
+output.txt
